@@ -1,0 +1,48 @@
+/*----------------------------------------------------------------------- GENERAL SELECTOR ---------------------------------------------------------------------------*/
+body {
+    margin: 0px;
+}
+
+p {
+    margin-bottom: 0px;
+}
+/*----------------------------------------------------------------------- CLASS SELECTOR ---------------------------------------------------------------------------*/
+.topredsqr {
+ background-color: red;
+ height: 200px;
+ width: 200px;
+ border: solid 10px;
+ padding: 20px;
+ display: inline-block;
+}
+
+.middlebluesqr {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    margin-left: 260px;
+    border: solid 20px;
+
+}
+
+.bottongreensqr {
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    margin-left:500px;
+    border: solid 10px;
+}
+
+/*----------------------------------------------------------------------- ID SELECTOR ---------------------------------------------------------------------------*/
+
+#myname {
+    margin-top: 0px;
+}
+
+#top-part {
+    background-color: aquamarine; 
+
+}
+
+
+
